@@ -1,4 +1,4 @@
-This project was really just to help build a broken tool my wife has at her work.
+This project was really just to help fix a broken tool my wife has at her work.
 If you want to see what it can do the executable can be downloaded in the dist directory as well as the brk.txt and trv.txt files which can be used as input.
 The brk.txt and trv.txt files are sample files and not complete so the output will be missing a lot of rows of information leading to a lot of N/A values in the output excel file that is created.
 
