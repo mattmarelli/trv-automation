@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pandas>=2.3.3",
+    "pyinstaller>=6.18.0",
     "pyqt6<6.10",
     "xlsxwriter>=3.2.9",
 ]
